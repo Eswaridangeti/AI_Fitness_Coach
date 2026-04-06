@@ -1,7 +1,8 @@
 🏋️ AI Voice Fitness Coach
 A web-based AI-powered fitness coach that gives real-time voice instructions and countdown timers for workouts.
 
-Features
+Features: 
+
 🎙️ Voice instructions for each exercise
 ⏱️ Countdown timers for workouts & rests
 🔄 Sequenced exercises for smooth flow
