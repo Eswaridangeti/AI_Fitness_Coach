@@ -22,5 +22,4 @@ Pause / Resume / Stop buttons
 Custom workout plans and difficulty levels
 Progress tracking and visual progress bar
 Background music for motivation
-Demo
-You can record a short demo of the app in action (optional) and share the link here.
+
